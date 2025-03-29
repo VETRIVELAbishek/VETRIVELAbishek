@@ -23,6 +23,6 @@
 
 
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://rishavchanda.io/"  />
   <img width="12" />
  
