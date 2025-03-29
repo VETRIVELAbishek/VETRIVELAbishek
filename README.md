@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
 
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+VETRIVEL M;A+Passionate+full+stack+developer👨‍💻+;Coding+enthusiast+;Problem+solver+;Excited+to+solve+real-world+problem+;" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+;A+Passionate+full+stack+developer👨‍💻+;Coding+enthusiast+;Problem+solver+;Excited+to+solve+real-world+problem+;" alt="Typing SVG" /></a></h1>
 
 - 🌱 I’m currently learning **Web Development Course**
 
